@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584821712 source:d:\structuridate\sortarilab1\comparatiesortari\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	<cstdlib>
+	<ctime>
+
